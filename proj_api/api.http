@@ -1,0 +1,27 @@
+### Criar um novo cadastro
+POST http://localhost:5000/personal-data
+Content-Type: application/json
+
+{
+  "nome": "João",
+  "sobrenome": "Silva",
+  "idade": 30,
+  "pais": "Brasil"
+}
+
+### Listar todos os cadastros
+GET http://localhost:5000/personal-data
+
+### Consultar um cadastro por ID
+GET http://localhost:5000/personal-data/1
+
+### Atualizar um cadastro por ID
+PATCH http://localhost:5000/personal-data/1
+Content-Type: application/json
+
+{
+  "idade": 31
+}
+
+### Excluir um cadastro por ID
+DELETE http://localhost:5000/personal-data/1

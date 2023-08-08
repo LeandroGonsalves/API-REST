@@ -1,0 +1,76 @@
+2023-08-07 18:41:12,921 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-07 18:41:12,921 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-07 18:41:12,948 [INFO]  * Restarting with stat
+2023-08-07 18:41:13,894 [WARNING]  * Debugger is active!
+2023-08-07 18:41:13,909 [INFO]  * Debugger PIN: 794-537-963
+2023-08-07 23:55:57,337 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-07 23:55:57,337 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-07 23:55:57,386 [INFO]  * Restarting with stat
+2023-08-07 23:55:58,751 [WARNING]  * Debugger is active!
+2023-08-07 23:55:58,857 [INFO]  * Debugger PIN: 794-537-963
+2023-08-07 23:56:23,704 [INFO] 127.0.0.1 - - [07/Aug/2023 23:56:23] "[33mGET / HTTP/1.1[0m" 404 -
+2023-08-07 23:56:25,727 [INFO] 127.0.0.1 - - [07/Aug/2023 23:56:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-08-07 23:57:27,257 [ERROR] Erro ao criar dado pessoal: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-07 23:57:27,257 [INFO] 127.0.0.1 - - [07/Aug/2023 23:57:27] "[35m[1mGET /personal-data/1 HTTP/1.1[0m" 500 -
+2023-08-07 23:57:27,731 [INFO] 127.0.0.1 - - [07/Aug/2023 23:57:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-08-07 23:57:41,481 [INFO] 127.0.0.1 - - [07/Aug/2023 23:57:41] "GET /personal-data HTTP/1.1" 200 -
+2023-08-07 23:57:52,637 [ERROR] Erro ao criar dado pessoal: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-07 23:57:52,637 [INFO] 127.0.0.1 - - [07/Aug/2023 23:57:52] "[35m[1mGET /personal-data/1 HTTP/1.1[0m" 500 -
+2023-08-07 23:58:05,353 [ERROR] Erro ao criar dado pessoal: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-07 23:58:05,353 [INFO] 127.0.0.1 - - [07/Aug/2023 23:58:05] "[35m[1mGET /personal-data/1 HTTP/1.1[0m" 500 -
+2023-08-07 23:58:13,295 [ERROR] Erro ao criar dado pessoal: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-07 23:58:13,302 [INFO] 127.0.0.1 - - [07/Aug/2023 23:58:13] "[35m[1mGET /personal-data/1 HTTP/1.1[0m" 500 -
+2023-08-08 00:06:57,910 [INFO]  * Detected change in 'C:\\Users\\Leandro\\Desktop\\proj_api\\app\\adapters\\controllers\\personal_data_controller.py', reloading
+2023-08-08 00:06:57,991 [INFO]  * Restarting with stat
+2023-08-08 00:10:03,104 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-08 00:10:03,105 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-08 00:10:03,108 [INFO]  * Restarting with stat
+2023-08-08 00:10:03,655 [WARNING]  * Debugger is active!
+2023-08-08 00:10:03,655 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:10:09,238 [INFO] 127.0.0.1 - - [08/Aug/2023 00:10:09] "[33mGET / HTTP/1.1[0m" 404 -
+2023-08-08 00:10:38,609 [INFO]  * Detected change in 'C:\\Users\\Leandro\\Desktop\\proj_api\\app\\adapters\\controllers\\personal_data_controller.py', reloading
+2023-08-08 00:10:38,703 [INFO]  * Restarting with stat
+2023-08-08 00:10:39,298 [WARNING]  * Debugger is active!
+2023-08-08 00:10:39,298 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:12:11,691 [INFO]  * Detected change in 'C:\\Users\\Leandro\\Desktop\\proj_api\\app\\adapters\\controllers\\personal_data_controller.py', reloading
+2023-08-08 00:12:11,781 [INFO]  * Restarting with stat
+2023-08-08 00:12:12,421 [WARNING]  * Debugger is active!
+2023-08-08 00:12:12,425 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:12:28,878 [INFO]  * Detected change in 'C:\\Users\\Leandro\\Desktop\\proj_api\\app\\adapters\\controllers\\personal_data_controller.py', reloading
+2023-08-08 00:12:28,972 [INFO]  * Restarting with stat
+2023-08-08 00:12:29,473 [WARNING]  * Debugger is active!
+2023-08-08 00:12:29,473 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:12:47,472 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-08 00:12:47,472 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-08 00:12:47,509 [INFO]  * Restarting with stat
+2023-08-08 00:12:47,975 [WARNING]  * Debugger is active!
+2023-08-08 00:12:47,975 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:12:52,999 [INFO] 127.0.0.1 - - [08/Aug/2023 00:12:52] "[33mGET / HTTP/1.1[0m" 404 -
+2023-08-08 00:13:06,516 [INFO]  * Detected change in 'C:\\Users\\Leandro\\Desktop\\proj_api\\app\\adapters\\controllers\\personal_data_controller.py', reloading
+2023-08-08 00:13:06,577 [INFO]  * Restarting with stat
+2023-08-08 00:13:07,076 [WARNING]  * Debugger is active!
+2023-08-08 00:13:07,089 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:14:55,819 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-08 00:14:55,821 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-08 00:14:55,824 [INFO]  * Restarting with stat
+2023-08-08 00:14:56,294 [WARNING]  * Debugger is active!
+2023-08-08 00:14:56,309 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:14:59,852 [INFO] 127.0.0.1 - - [08/Aug/2023 00:14:59] "[33mGET / HTTP/1.1[0m" 404 -
+2023-08-08 00:15:31,253 [INFO]  * Detected change in 'C:\\Users\\Leandro\\Desktop\\proj_api\\app\\adapters\\controllers\\personal_data_controller.py', reloading
+2023-08-08 00:15:31,328 [INFO]  * Restarting with stat
+2023-08-08 00:15:31,786 [WARNING]  * Debugger is active!
+2023-08-08 00:15:31,786 [INFO]  * Debugger PIN: 794-537-963
+2023-08-08 00:21:33,173 [INFO] 127.0.0.1 - - [08/Aug/2023 00:21:33] "GET /personal-data HTTP/1.1" 200 -
+2023-08-08 00:21:42,030 [ERROR] Erro ao criar dado pessoal: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-08 00:21:42,032 [INFO] 127.0.0.1 - - [08/Aug/2023 00:21:42] "[35m[1mGET /personal-data/1 HTTP/1.1[0m" 500 -
+2023-08-08 00:21:51,524 [ERROR] Erro ao criar dado pessoal: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2023-08-08 00:21:51,524 [INFO] 127.0.0.1 - - [08/Aug/2023 00:21:51] "[35m[1mGET /personal-data/1 HTTP/1.1[0m" 500 -
+2023-08-08 00:23:50,939 [INFO]  * Detected change in 'C:\\Users\\Leandro\\Desktop\\proj_api\\tests\\test_personal_data_service.py', reloading
+2023-08-08 00:23:51,148 [INFO]  * Restarting with stat
+2023-08-08 00:23:55,536 [WARNING]  * Debugger is active!
+2023-08-08 00:23:55,582 [INFO]  * Debugger PIN: 794-537-963
